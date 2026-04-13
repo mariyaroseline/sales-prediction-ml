@@ -26,18 +26,8 @@ Technologies Used
 Project Structure
 
 sales_prediction_project/
-
-│
-├── data/
-│   └── amazon_sales_data.csv
-│
-├── src/
-│   └── main.py
-│
-├── output/
-│   └── sales_trend.png
-│
-├── README.md  
+sales_prediction_project/
+| |— data/ | — amazon_sales_data.csv | — src/ | — main.py | — output/ | — sales_trend.png | — README.md  
 
 Workflow
 
