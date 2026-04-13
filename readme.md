@@ -97,7 +97,7 @@ Sample Output
 How to Run the Project
 
 Step 1: Clone Repository  
-git clone https://github.com/your-username/sales_prediction_project.git  
+git clone https://github.com/mariyaroseline/sales-prediction-ml.git
 cd sales_prediction_project  
 
 Step 2: Install Dependencies  
